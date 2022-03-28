@@ -4,72 +4,76 @@
     "education": "Education",
     "experience": "Experience",
     "skills": "Skills",
-    "interests": "Interests",
-    "projects": "Projects"
+    "interests": "Interests"
   },
   "personalInfo": {
-    "name": "Iván",
-    "lastName": "Greve",
+    "name": "Piyush",
+    "lastName": "Srivastava",
     "subHeadingText": [
-      "Software Enginneer",
-      "Full Stack Developer",
-      "Code enthusiast!"
+      "Back-End Developer",
+      "Tech enthusiast!",
+      "Gamer!"
     ],
-    "city": "Buenos Aires, Argentina",
-    "phoneNumber": "+54 - 6766-9851",
-    "email": "ivangreve@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/ivan-greve/",
-    "github": "https://github.com/ivangreve/",
-    "myDescription": "Passionate web developer, making useful application using the latest technologies!"
+    "city": "Bangalore, India",
+    "phoneNumber": "+918296590075",
+    "email": "piyush061996@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/piyush-srivastava06/",
+    "github": "https://github.com/Piyush-Srivastava",
+    "myDescription": "Tech-enthusiast who loves working with new technologies. Intellectually curious and looking for challenges and opportunities in different areas. Currently working as a backend and cloud developer with expertise in AWS, Java and Spring boot."
   },
   "educationDegrees": {
     "title": "Education 📕",
     "degrees": [
       {
-        "collage": "University of La Matanza",
-        "name": "Engineer Degree",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2018"
+        "collage": "Siddaganga Institute Of Technology",
+        "name": "B.E (Computer Science)",
+        "itemList": ["Grade: 9.06"],
+        "startEndDate": "July 2015 - July 2019"
       },
       {
-        "collage": "University of La Matanza",
-        "name": "Software Engineering Technician",
-        "itemList": ["Computer Science"],
-        "startEndDate": "March 2013 - December 2016"
-      },
-      {
-        "collage": "Instituto Madero",
-        "name": "Electronic technician",
-        "itemList": ["Electronic"],
-        "startEndDate": "March 2007 - December 2012"
+        "collage": "Springdale College",
+        "name": "12th Standard (PCM)",
+        "itemList": ["Percentage: 84.6%"],
+        "startEndDate": "May 2013 - April 2014"
       }
     ]
   },
   "workExperiences": {
-    "title": "Work Expecience 🔨",
+    "title": "Work Experience 🔨",
     "works": [
       {
-        "position": "Software Engineer / FullStack Developer",
-        "companie": "Axum - Smart Solutions",
-        "responsabilities": [
-          "Responsible for designing, developing and maintaining a group of applications used in the retail industry by multinational companies as Pepsico, Unilever, Quilmes, etc.",
-          "Web Team leader, I take technical decisions about which technologies use in each project and how the team will works.",
-          "Backend Developer: .NET Core | .NET Framework | NodeJs | MSSQL | PostgreSQL | MongoDB.",
-          "Frontend Developer: VueJs | ReactJs | Javascript | JQuery.",
-          "Desktop Applications: .NET Windows Form Applications."
+        "position": "Developer 1",
+        "company": "Delta Airlines",
+        "responsibilities": [
+          "Responsible for developing and maintaining a group of applications used in the Communication and Reservation domain",
+          "Responsible for developing and maintaining backend architecture of Virtual Assist of Delta.",
+          "Backend Stack: Java | SpringBoot | C# | MYSQL .",
+          "Cloud Stack: AWS | Azure Luis"
         ],
-        "startEndDate": "November 2017 - Present"
+        "startEndDate": "June 2021 - Present"
       },
       {
-        "position": "Technical Administrator",
-        "companie": "Metalurgica Vezeta",
-        "responsabilities": [
-          "Responsible for web ecommerce designing and maintaining.",
-          "Graphic design (Adobe Photoshop and Adobe Illustrator).",
+        "position": "Software Engineer/ Full-Stack Developer",
+        "company": "Societe Generale",
+        "responsibilities": [
+          "Responsible for developing and maintaining features for Intraday Liquidity Application.",
+          "Designed and developed application to fetch and display payments between banks. Handled millions of payment and performed load testing.",
           "Technical support.",
-          "Improve business processes."
+          "Improved business processes.",
+          "Backend Stack: Java | SpringBoot | MYSQL | Docker | Jmeter.",
+          "Frontend Stack: React | Redux | Javascript | HTML/CSS ."
         ],
-        "startEndDate": "March 2014 - October 2017"
+        "startEndDate": "June 2020 - June 2021"
+      },
+      {
+        "position": "Systems Engineer",
+        "company": "Tata Consultancy Services",
+        "responsibilities": [
+          "Worked on Spring, Spring Boot and Microservices with Cloud,Microservices and APIfication(CMA) unit.",
+          "Successfully delivered an Incentive Management application for US based automobile company. Developed APIs and microservices using Java and Spring Boot and used MySQL for queries.",
+          "Backend Stack: Java | SpringBoot | MYSQL "
+        ],
+        "startEndDate": "July 2019 - June 2020"
       }
     ]
   },
@@ -77,7 +81,9 @@
     "title": "Skills 🎯",
     "iconsTitle": "Programming Languages & Tools",
     "devIcons": [
-      "devicon-csharp-plain",
+      "devicon-java-plain",
+      "devicon-spring-plain",
+      "devicon-mysql-plain-wordmark",
       "devicon-javascript-plain",
       "devicon-html5-plain-wordmark",
       "devicon-css3-plain-wordmark",
@@ -86,60 +92,26 @@
       "devicon-bootstrap-plain",
       "devicon-github-original",
       "devicon-bitbucket-original-wordmark",
-      "devicon-dot-net-original-wordmark",
-      "devicon-jquery-plain-wordmark",
       "devicon-linux-plain",
-      "devicon-windows8-original",
-      "devicon-illustrator-plain",
-      "devicon-photoshop-plain",
       "devicon-react-original",
       "devicon-visualstudio-plain",
-      "devicon-dot-net-plain",
-      "devicon-vuejs-plain",
-      "devicon-postgresql-plain"
+      "devicon-postgresql-plain",
+      "devicon-amazonwebservices-plain"
     ],
     "workflow": "Workflow",
     "itemList": [
-      "Responsive Design & UX",
-      "Cross Browser Testing & Debugging",
+      "Microservice Architecture",
+      "SOLID Principles",
+      "Design Patterns",
+      "Unit Testing & Debugging",
       "REST API building",
       "Agile Development & Scrum",
-      "Team working",
-      "Design Patterns"
+      "Team working"     
     ]
   },
   "interests": {
-    "title": "Hobbies 😄",
-    "firstBlock": "Apart from being a web developer, I enjoy most of my time listening and playing music. I love playing piano and singing in my spare time!. 🎹🎵",
-    "secondBlock": "I spend a large amount of my free time exploring the latest technolgy advancements in the frontend and backend web technology development world and coding in my personal projects! 🙌👨‍💻"
-  },
-  "projects": {
-    "title": "Personal Projects 🦾🧠",
-    "projectsInfo": [
-      {
-        "name": "Kelawar",
-        "description": "Kelawar is a Big Data + IoT project. Which through masive recollections of data, we provide useful information about the clients behavior. ",
-        "image": "/images/kelawar.jpg",
-        "siteUrl": "https://kelawar.com/"
-      },
-      {
-        "name": "Docuisy",
-        "description": "Docuisy is a Wiki, generator based on .md files",
-        "image": "/images/docuisy.png",
-        "siteUrl": "https://github.com/ivangreve/docuisy"
-      },
-      {
-        "name": "Better Drive",
-        "description": "Better Drive is a free tool to analyze your Google Drive account. Google Drive is a powerful file storage and synchronization service, but sometimes you feel like you lose control of it. Keeping privacy concerns in mind, that many users have, we built this great tool to help you organize, clean, and leverage the use of your Google Drive.",
-        "image": "/images/better-drive.png",
-        "siteUrl": "https://betterdrive.app/"
-      },
-      {
-        "name": "Resume Nuxt Template",
-        "description": "I made a simple and customizable template with nuxt and multilanguage support (i18n)",
-        "image": "/images/resumenuxt.jpg",
-        "siteUrl": "https://github.com/ivangreve/nuxt-resume"
-      }
-    ]
+    "title": "Interests 🎮",
+    "firstBlock": "Apart from being a software developer, I devote most of my time playing video games(also stream them, gamertag - ShdwCat), listening to music and reading. I also create meme collection(dank?dark?cringe?reaction?pickup? - I got'em all)",
+    "secondBlock": "I also love exploring the latest technology advancements in the backend and cloud development world and improving my coding skills! 🙌👨‍💻"
   }
 }

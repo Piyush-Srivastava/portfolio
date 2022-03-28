@@ -58,7 +58,7 @@ export default {
         rel: "stylesheet",
         type: "text/css",
         href:
-          "https://cdn.rawgit.com/konpa/devicon/df6431e323547add1b4cf45992913f15286456d3/devicon.min.css"
+          "https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css"
       },
       {
         rel: "stylesheet",
@@ -113,13 +113,12 @@ export default {
     ["@nuxtjs/style-resources"]
   ],
   i18n: {
-    locales: ["en", "es"],
+    locales: ["en",],
     defaultLocale: "en",
     vueI18n: {
       fallbackLocale: "en",
       messages: {
         en: require("./locales/en.json"),
-        es: require("./locales/es.json")
       }
     }
   },

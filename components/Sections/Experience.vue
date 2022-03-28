@@ -9,9 +9,9 @@
     >
       <div class="resume-content mr-auto">
         <h3 class="mb-0">{{ work.position }}</h3>
-        <div class="subheading mb-3">{{ work.companie }}</div>
+        <div class="subheading mb-3">{{ work.company }}</div>
         <p
-          v-for="responsabilitie in work.responsabilities"
+          v-for="responsabilitie in work.responsibilities"
           :key="responsabilitie"
         >
           - {{ responsabilitie }}

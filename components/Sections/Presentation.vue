@@ -9,7 +9,7 @@
       <vue-typer
         :text="$t('personalInfo.subHeadingText')"
         :repeat="Infinity"
-        :shuffle="true"
+        :shuffle="false"
         initial-action="typing"
         :pre-type-delay="100"
         :type-delay="82"

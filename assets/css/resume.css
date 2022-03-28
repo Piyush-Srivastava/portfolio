@@ -151,13 +151,13 @@ body {
   }
 
 .card-body, .card-title {
-    color: #868e96
+    color: #495057
 }
 
   /* COLOR STYLES */
 
   :root {
-    --color: #868e96;
+    --color: #495057;
     --color-primary: #478547;
     --color-secondary: #3b833b;
     --color-primary-hover: #276827;
@@ -172,7 +172,7 @@ body {
   .dark-mode {
     
     --color: #ebf4f1;
-    --color-primary: #0a0d0f;
+    --color-primary: #000000;
     --color-secondary: #000000;
     --color-primary-hover: #020405;
     --color-text-primary: #ffffff;
