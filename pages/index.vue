@@ -94,7 +94,7 @@ export default {
   },
   head() {
     return {
-      title: "Iván Greve"
+      title: "Piyush Srivastava"
     };
   },
   methods: {
